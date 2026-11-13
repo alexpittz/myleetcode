@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/alexpittz/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/alexpittz/myleetcode/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/alexpittz/myleetcode/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/alexpittz/myleetcode/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/alexpittz/myleetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/alexpittz/myleetcode/tree/master/1672-richest-customer-wealth) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/alexpittz/myleetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
