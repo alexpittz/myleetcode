@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alexpittz/myleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/alexpittz/myleetcode/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/alexpittz/myleetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/alexpittz/myleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alexpittz/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexpittz/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/alexpittz/myleetcode/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/alexpittz/myleetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alexpittz/myleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/alexpittz/myleetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/alexpittz/myleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alexpittz/myleetcode/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/alexpittz/myleetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/alexpittz/myleetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/alexpittz/myleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alexpittz/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/alexpittz/myleetcode/tree/master/0217-contains-duplicate) |
 ## Sliding Window
@@ -95,4 +98,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/alexpittz/myleetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/alexpittz/myleetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/alexpittz/myleetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
