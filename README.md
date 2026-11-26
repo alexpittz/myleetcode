@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexpittz/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/alexpittz/myleetcode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/alexpittz/myleetcode/tree/master/1512-number-of-good-pairs) |
+| [2349-design-a-number-container-system](https://github.com/alexpittz/myleetcode/tree/master/2349-design-a-number-container-system) |
 ## Counting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/alexpittz/myleetcode/tree/master/1603-design-parking-system) |
+| [2349-design-a-number-container-system](https://github.com/alexpittz/myleetcode/tree/master/2349-design-a-number-container-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/alexpittz/myleetcode/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/alexpittz/myleetcode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/alexpittz/myleetcode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
